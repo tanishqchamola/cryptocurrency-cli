@@ -2,7 +2,6 @@
 
 A command line interface to check the current price of cryptocurrencies.
 
----
 ## Requirements
 
 For development, you will only need Node.js and a node package manager installed in your environement.
